@@ -1,0 +1,13 @@
+﻿<Window x:Class="JointTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Name="LayoutRoot">
+        <TextBlock Name="output1" Margin="0,0,0,295">aa</TextBlock>
+        <TextBlock Name="output2" Margin="0,25,0,273">a</TextBlock>
+        <Image x:Name="rgbImage"></Image>
+        <Canvas Name="canvasSkeleton" 
+                Width="{Binding ElementName=rgbImage, Path=ActualWidth}"
+                Height="{Binding ElementName=rgbImage, Path=ActualHeight}"></Canvas>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\yusuke\Copy\work\kinect\JointTest\JointTest\bin\Debug\JointTest.exe.config
+C:\Users\yusuke\Copy\work\kinect\JointTest\JointTest\bin\Debug\JointTest.exe
+C:\Users\yusuke\Copy\work\kinect\JointTest\JointTest\bin\Debug\JointTest.pdb
+C:\Users\yusuke\Copy\work\kinect\JointTest\JointTest\obj\Debug\JointTest.csprojResolveAssemblyReference.cache
+C:\Users\yusuke\Copy\work\kinect\JointTest\JointTest\obj\Debug\MainWindow.baml
+C:\Users\yusuke\Copy\work\kinect\JointTest\JointTest\obj\Debug\MainWindow.g.cs
+C:\Users\yusuke\Copy\work\kinect\JointTest\JointTest\obj\Debug\App.g.cs
+C:\Users\yusuke\Copy\work\kinect\JointTest\JointTest\obj\Debug\JointTest_MarkupCompile.cache
+C:\Users\yusuke\Copy\work\kinect\JointTest\JointTest\obj\Debug\JointTest.g.resources
+C:\Users\yusuke\Copy\work\kinect\JointTest\JointTest\obj\Debug\JointTest.Properties.Resources.resources
+C:\Users\yusuke\Copy\work\kinect\JointTest\JointTest\obj\Debug\JointTest.csproj.GenerateResource.Cache
+C:\Users\yusuke\Copy\work\kinect\JointTest\JointTest\obj\Debug\JointTest.exe
+C:\Users\yusuke\Copy\work\kinect\JointTest\JointTest\obj\Debug\JointTest.pdb
+C:\Users\yusuke\Copy\work\kinect\JointTestv2\JointTest\bin\Debug\JointTest.exe.config
+C:\Users\yusuke\Copy\work\kinect\JointTestv2\JointTest\obj\Debug\JointTest.exe
+C:\Users\yusuke\Copy\work\kinect\JointTestv2\JointTest\obj\Debug\JointTest.pdb
